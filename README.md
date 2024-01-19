@@ -1,5 +1,5 @@
 ## hacks
-game hacks for many school-used website
+game hacks for many website
 
 # HOW TO USE (IMPORTANT)
 ## Step 1
